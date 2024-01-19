@@ -1,0 +1,19 @@
+.NotSelected{
+    display: grid;
+    place-items: center;
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    margin: 0 10px;
+}
+.Selected{
+    display: grid;
+    place-items: center;
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    margin: 0 10px;
+    background-color: black;
+    color: white;
+
+}

@@ -1,0 +1,23 @@
+h1{
+    font-size: 100px;
+    
+}
+p{
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 0;
+}
+.score{
+    max-width: 200px;
+    text-align: center;
+    
+}
+.Upper{
+    display: flex;
+    justify-content: space-around;
+}
+.Num{
+    display: flex;
+    padding-top: 30px;
+    
+}

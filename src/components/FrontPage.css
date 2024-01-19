@@ -1,0 +1,22 @@
+.Front{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+h1{
+    font-size: 100px;
+}
+button{
+    height: 44px;
+    width: 220px;
+    background-color: black;
+    color: white;
+    margin-left: 300px;
+    font-family: 'Poppins', sans-serif; 
+    border: none;
+}
+button:hover{
+    background-color: rgb(46, 44, 44);
+}
